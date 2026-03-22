@@ -17,9 +17,4 @@ Objetivo: Treinar um modelo simples e interpretável que classifica o tipo de vi
 - pandas, numpy, matplotlib, seaborn
 - joblib (para salvar o modelo)
 
-## Como Rodar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/wine-classifier-red-white.git
-   cd wine-classifier-red-white
